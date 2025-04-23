@@ -1,6 +1,7 @@
 ## EX 1: DDA ALGORITHM 
 
 **Aim :**
+
 To  implement the DDA algorithm to draw a line using a c coding
 
 **Algorithms :**
